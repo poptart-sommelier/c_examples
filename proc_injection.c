@@ -1,9 +1,6 @@
 /*
 
- Red Team Operator course code template
- storing payload in .rsrc section
- 
- author: reenz0h (twitter: @sektor7net)
+Process injection with string and import obfuscation.
 
 */
 #include <windows.h>
