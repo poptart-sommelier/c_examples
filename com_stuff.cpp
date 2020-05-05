@@ -9,6 +9,12 @@ https://github.com/microsoft/Windows-classic-samples/blob/master/Samples/Win7Sam
 https://docs.microsoft.com/en-us/cpp/cpp/convertstringtobstr?view=vs-2019
 */
 
+/*
+
+Uses shellwindows to launch a process, with explorer.exe as the proxy
+
+*/
+
 // i definitely don't need all this stuff, but it was added slowly as i fell down a rabbit hole, and now i don't feel like removing it
 #include <windows.h>
 #include <shellapi.h>
